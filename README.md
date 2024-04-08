@@ -1,2 +1,2 @@
 ### DSA Questions
-This contains some of the DSA questions and topics I dealt with in the last 2-3 years.
+This contains few DSA questions and topics I dealt within the last 2-3 years.
