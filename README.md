@@ -7,4 +7,5 @@
 
 - Includes Leetcode Solutions.
 
+- Inludes Important Questions discussed in Placement Training.
 
