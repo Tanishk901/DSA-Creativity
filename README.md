@@ -9,3 +9,5 @@
 
 - Inludes Important Questions discussed in Placement Training.
 
+- Also, includes basic C++ concpets of DSA.
+
