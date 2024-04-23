@@ -9,6 +9,6 @@
 
 - Inludes Important Questions discussed in Placement Training.
 
-- Also, includes basic C++ concpets of DSA.
+- Also, includes basic C++ concpets of DSA, from Basics to Advanced.
     - Arrays
 
